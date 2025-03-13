@@ -1,0 +1,54 @@
+
+/* navbar hover part starts from here */
+#navbar_top div ul li a:hover{
+    color:aquamarine;
+}
+/* navbar hover part ends from here */
+
+
+
+/* footer hover part start process */
+.footer-part div a:hover{ 
+    color:rgb(168, 242, 179) !important;
+    text-decoration: underline !important;
+}
+/* footer hover part end process */
+
+/* Gallary image hover process */
+.galary div img:hover {
+    opacity: 0.8;
+    transform: scale(1.1); 
+    border: 1px solid rgb(52, 215, 237); 
+}
+/* Gallary image hover process */
+  
+/* work process image hover process */
+.work-process div img:hover {
+    opacity: 0.8;
+    transform: scale(1.1);
+    border: 1px solid grey;
+}
+/* work process image hover process */
+
+/* treatment img hover process */
+.treatment-process div img:hover {
+    opacity: 0.8;
+    transform: scale(1);
+    border: 1px solid grey;
+}
+/* treatment img hover process */
+
+
+/* validation span error class */
+.error {
+    color: red;
+}
+/* validation span error class */
+
+
+.right div .card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-3px);
+}
+
+
